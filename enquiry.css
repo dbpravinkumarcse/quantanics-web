@@ -1,0 +1,33 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body{
+  min-height: 100vh;
+  font-family: -apple-system,BlinkMacSystemFont,Roboto,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.inputbody{
+  position: relative;
+  margin-left:15%;
+  margin-right: 18%;
+  padding:7% 5%;
+
+}
+.navbar{
+  padding:2% 8% 0 8% ;
+  font-weight: bolder;
+}
+.navbar-brand{
+  color:  #0492c2;
+  opacity:0.8;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.footer{
+  padding:3% 8%;
+  position: relative;
+  font-weight: bolder;
+
+}
